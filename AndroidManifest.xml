@@ -82,6 +82,11 @@
             android:name="com.lee.app.Activity012"
             android:label="@string/title_activity_activity012" >
         </activity>
+        
+        
+        
+        <service android:name="ServiceFirst"></service>
+        <service android:name="ServiceIntent"></service>
     </application>
 
     <!-- LeeMee521125 -->
