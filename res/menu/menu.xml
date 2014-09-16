@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.lee.app.Activity008" >
+
+    <item
+        android:id="@+id/action_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="ifRoom|collapseActionView"
+        android:title="搜索"/>
+    
+    <item
+        android:id="@+id/action_rensheng"
+        android:icon="@drawable/edu_need_image"
+        android:showAsAction="ifRoom"
+        android:title="人生"/>
+    <item
+        android:id="@+id/action_jianchi"
+        android:icon="@drawable/edu_need_logo"
+        android:showAsAction="ifRoom"
+        android:title="坚持"/>
+    <item
+        android:id="@+id/action_mengxiang"
+        android:icon="@drawable/edu_need_video"
+        android:showAsAction="never"
+        android:title="梦想"/>
+
+</menu>

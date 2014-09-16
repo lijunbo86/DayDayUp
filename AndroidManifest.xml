@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lee.app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.lee.app.global.App"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.lee.app.ActiMain" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity000"
+            android:label="@string/title_activity_activity000" />
+        <activity
+            android:name="com.lee.app.Activity001"
+            android:label="@string/title_activity_activity001" />
+        <activity
+            android:name="com.lee.app.Activity002"
+            android:label="@string/title_activity_activity002" />
+        <activity
+            android:name="com.lee.app.Activity003"
+            android:label="@string/title_activity_activity003" >
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity004"
+            android:label="@string/title_activity_activity004" >
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity005"
+            android:label="@string/title_activity_activity005" >
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity006"
+            android:label="@string/title_activity_activity006" >
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity007"
+            android:label="@string/title_activity_activity007" >
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity008"
+            android:label="@string/title_activity_activity008" >
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity009"
+            android:label="@string/title_activity_activity009" >
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity010"
+            android:label="@string/activity_life" >
+        </activity>
+        <activity
+            android:name="com.lee.app.ActivityNormal"
+            android:label="@string/title_activity_activity_normal" >
+        </activity>
+        <activity
+            android:name="com.lee.app.ActivityDialog"
+            android:label="@string/title_activity_activity_dialog"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.lee.app.Activity011"
+            android:label="@string/title_activity_activity011" >
+        </activity>
+    </application>
+
+    <!-- 李君波 -->
+</manifest>

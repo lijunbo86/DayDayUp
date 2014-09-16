@@ -1,0 +1,28 @@
+<? xml version='1.0' encoding='UTF-8' ?>
+<infos>
+	<city id="1">
+		<temp>20℃/30℃</temp>
+		<weather>5月20日 多云转晴</weather>
+		<wind>南风3-4级</wind>
+		<name>深圳</name>
+		<pm>200</pm>
+	</city>
+	
+	<city id="2">
+		<temp>26℃/30℃</temp>
+		<weather>5月20日 多云转晴</weather>
+		<wind>南风3-4级</wind>
+		<name>上海</name>
+		<pm>400</pm>
+	</city>
+	
+	<city id="3">
+		<temp>22℃/30℃</temp>
+		<weather>5月20日 多云转晴</weather>
+		<wind>南风3-4级</wind>
+		<name>北京</name>
+		<pm>600</pm>
+	</city>
+	
+
+</infos>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">每天一练</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="arrTest">
+        <item>[001] sharedPreference入门</item>
+        <item>[002] xml文件序列化器</item>
+        <item>[003] 采用Pull解析xml文件</item>
+        <item>[004] 获取SD卡与Momory卡的大小</item>
+        <item>[005] 音乐播放器</item>
+        <item>[006] SoundPool声音池</item>
+        <item>[007] SurfaceView播放SD卡视频</item>
+        <item>[008] 调用系统照相机拍照与录像</item>
+        <item>[009] ActionBar详解</item>
+        <item>[010] Android调用Office</item>
+        <item>[010] Activity的生命周期</item>
+        <item>[011] Fragment的生命周期</item>
+    </string-array>
+
+    <string name="title_activity_activity000">sharedPreference入门</string>
+    <string name="title_activity_activity001">xml文件序列化器</string>
+    <string name="title_activity_activity002">采用Pull解析xml文件</string>
+    <string name="title_activity_activity003">获取内存卡大小</string>
+    <string name="title_activity_activity004">音乐播放器</string>
+    <string name="title_activity_activity005">SoundPool声音池</string>
+    <string name="title_activity_activity006">SurfaceView播放SD卡视频</string>
+    <string name="title_activity_activity007">调用系统照相机拍照和录像</string>
+    <string name="title_activity_activity008">ActionBar</string>
+    <string name="title_activity_activity009">Android调用Office</string>
+    <string name="open_office">Open Office</string>
+    <string name="activity_life">Activity的生命周期</string>
+    <string name="title_activity_activity_normal">ActivityNormal</string>
+    <string name="title_activity_activity_dialog">ActivityDialog</string>
+    <string name="title_activity_activity011">Fragment的生命周期</string>
+
+</resources>
