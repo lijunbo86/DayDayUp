@@ -78,7 +78,12 @@
             android:name="com.lee.app.Activity011"
             android:label="@string/title_activity_activity011" >
         </activity>
+        <activity
+            android:name="com.lee.app.Activity012"
+            android:label="@string/title_activity_activity012" >
+        </activity>
     </application>
 
     <!-- LeeMee521125 -->
+
 </manifest>

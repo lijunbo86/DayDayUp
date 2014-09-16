@@ -17,6 +17,8 @@
         <item>[010] Android调用Office</item>
         <item>[010] Activity的生命周期</item>
         <item>[011] Fragment的生命周期</item>
+        <item>[012] Service的使用与生命周期</item>
+        <item>[013] SQLite数据库的应用</item>
     </string-array>
 
     <string name="title_activity_activity000">sharedPreference入门</string>
@@ -34,5 +36,6 @@
     <string name="title_activity_activity_normal">ActivityNormal</string>
     <string name="title_activity_activity_dialog">ActivityDialog</string>
     <string name="title_activity_activity011">Fragment的生命周期</string>
+    <string name="title_activity_activity012">Service的应用与生命周期</string>
 
 </resources>
